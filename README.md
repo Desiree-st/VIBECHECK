@@ -29,3 +29,5 @@
 ## 6. Contraintes
 * **Technique :** Utiliser des outils de développement web modernes et gérer un système de base de données pour stocker les profils, les dressings et les adresses.
 * **Design / Ergonomie :** Proposer une interface utilisateur (UI/UX) très visuelle, épurée et moderne, parfaitement adaptée à l'univers du lifestyle.
+## 🌐 Schéma Réseau
+![Schéma Réseau VibeCheck](schema-reseau.png)
